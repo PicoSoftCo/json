@@ -1,0 +1,1064 @@
+{
+    "H": {
+        "name": "Hydrogen",
+        "Symbol": "H",
+        "ElementNumber": 1,
+        "ElementWeight": 1.01,
+        "Elevtronegativity": 2.1,
+        "IsRadioActive": "false",
+        "Phase": "Gas"
+    },
+    "He": {
+        "name": "Helium",
+        "Symbol": "He",
+        "ElementNumber": 1,
+        "ElementWeight": 4.00,
+        "Elevtronegativity": "Null",
+        "IsRadioActive": "false",
+        "Phase": "Gas"
+    },
+    "Li": {
+        "name": "Lithium",
+        "Symbol": "Li",
+        "ElementNumber": 3,
+        "ElementWeight": 6.94,
+        "Elevtronegativity": 1.0,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Be": {
+        "name": "Berelium",
+        "Symbol": "Be",
+        "ElementNumber": 4,
+        "ElementWeight": 9.01,
+        "Elevtronegativity": 1.5,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "B": {
+        "name": "Boron",
+        "Symbol": "B",
+        "ElementNumber": 5,
+        "ElementWeight": 10.81,
+        "Elevtronegativity": 2.0,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "C": {
+        "name": "Carbon",
+        "Symbol": "C",
+        "ElementNumber": 6,
+        "ElementWeight": 12.01,
+        "Elevtronegativity": 2.5,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "N": {
+        "name": "Nitrogen",
+        "Symbol": "N",
+        "ElementNumber": 7,
+        "ElementWeight": 14.00,
+        "Elevtronegativity": 3.0,
+        "IsRadioActive": "false",
+        "Phase": "Gas"
+    },
+    "O": {
+        "name": "Oxygen",
+        "Symbol": "O",
+        "ElementNumber": 8,
+        "ElementWeight": 15.99,
+        "Elevtronegativity": 3.5,
+        "IsRadioActive": "false",
+        "Phase": "Gas"
+    },
+    "F": {
+        "name": "Flourine",
+        "Symbol": "F",
+        "ElementNumber": 9,
+        "ElementWeight": 18.99,
+        "Elevtronegativity": 4.0,
+        "IsRadioActive": "false",
+        "Phase": "Gas"
+    },
+    "Ne": {
+        "name": "Neon",
+        "Symbol": "Ne",
+        "ElementNumber": 20,
+        "ElementWeight": 20.17,
+        "Elevtronegativity": "Null",
+        "IsRadioActive": "false",
+        "Phase": "Gas"
+    },
+    "Na": {
+        "name": "Sodium",
+        "Symbol": "Na",
+        "ElementNumber": 11,
+        "ElementWeight": 22.98,
+        "Elevtronegativity": 0.9,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Mg": {
+        "name": "Magnesium",
+        "Symbol": "Mg",
+        "ElementNumber": 12,
+        "ElementWeight": 24.30,
+        "Elevtronegativity": 1.2,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Al": {
+        "name": "Aluminium",
+        "Symbol": "Al",
+        "ElementNumber": 13,
+        "ElementWeight": 26.98,
+        "Elevtronegativity": 1.5,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Si": {
+        "name": "Silicon",
+        "Symbol": "Si",
+        "ElementNumber": 14,
+        "ElementWeight": 20.08,
+        "Elevtronegativity": 1.8,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "P": {
+        "name": "Phosphorus",
+        "Symbol": "P",
+        "ElementNumber": 15,
+        "ElementWeight": 30.97,
+        "Elevtronegativity": 2.1,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "S": {
+        "name": "Sulfur",
+        "Symbol": "S",
+        "ElementNumber": 16,
+        "ElementWeight": 32.06,
+        "Elevtronegativity": 2.5,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Cl": {
+        "name": "Chlorine",
+        "Symbol": "Cl",
+        "ElementNumber": 17,
+        "ElementWeight": 35.45,
+        "Elevtronegativity": 3.0,
+        "IsRadioActive": "false",
+        "Phase": "Gas"
+    },
+    "Ar": {
+        "name": "Argon",
+        "Symbol": "Ar",
+        "ElementNumber": 18,
+        "ElementWeight": 39.94,
+        "Elevtronegativity": "Null",
+        "IsRadioActive": "false",
+        "Phase": "Gas"
+    },
+    "K": {
+        "name": "Potassium",
+        "Symbol": "K",
+        "ElementNumber": 19,
+        "ElementWeight": 39.09,
+        "Elevtronegativity": 0.8,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Ca": {
+        "name": "Calcium",
+        "Symbol": "Ca",
+        "ElementNumber": 20,
+        "ElementWeight": 40.07,
+        "Elevtronegativity": 1.0,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Sc": {
+        "name": "Scandium",
+        "Symbol": "Sc",
+        "ElementNumber": 21,
+        "ElementWeight": 44.95,
+        "Elevtronegativity": 1.3,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Ti": {
+        "name": "Titanium",
+        "Symbol": "Ti",
+        "ElementNumber": 22,
+        "ElementWeight": 47.88,
+        "Elevtronegativity": 1.5,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "V": {
+        "name": "Vanadium",
+        "Symbol": "V",
+        "ElementNumber": 12,
+        "ElementWeight": 50.94,
+        "Elevtronegativity": 1.6,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Cr": {
+        "name": "Chromium",
+        "Symbol": "Cr",
+        "ElementNumber": 24,
+        "ElementWeight": 51.99,
+        "Elevtronegativity": 1.6,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Mn": {
+        "name": "Manganese",
+        "Symbol": "Mn",
+        "ElementNumber": 25,
+        "ElementWeight": 54.93,
+        "Elevtronegativity": 1.5,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Fe": {
+        "name": "Iron (Ferrum)",
+        "Symbol": "Fe",
+        "ElementNumber": 26,
+        "ElementWeight": 55.86,
+        "Elevtronegativity": 1.8,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Co": {
+        "name": "Cobalt",
+        "Symbol": "Co (Note : Co is Cobalts symbol not CO as carbon monoxide!)",
+        "ElementNumber": 27,
+        "ElementWeight": 58.93,
+        "Elevtronegativity": 1.8,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Ni": {
+        "name": "Nickel",
+        "ElementNumber": 28,
+        "ElementWeight": 58.69,
+        "Elevtronegativity": 1.8,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Cu": {
+        "name": "Copper (Cuprum)",
+        "ElementNumber": 29,
+        "ElementWeight": 63.54,
+        "Elevtronegativity": 1.9,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Zn": {
+        "name": "Zinc",
+        "ElementNumber": 30,
+        "ElementWeight": 65.39,
+        "Elevtronegativity": 1.6,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Ga": {
+        "name": "Gallium",
+        "ElementNumber": 31,
+        "ElementWeight": 69.72,
+        "Elevtronegativity": 1.6,
+        "IsRadioActive": "false",
+        "Phase": "Solid at 25 °C"
+    },
+    "Ge": {
+        "name": "Germanium",
+        "ElementNumber": 32,
+        "ElementWeight": 72.61,
+        "Elevtronegativity": 1.8,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "As": {
+        "name": "Arsenic",
+        "ElementNumber": 33,
+        "ElementWeight": 74.92,
+        "Elevtronegativity": 2.0,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Se": {
+        "name": "Selenium",
+        "ElementNumber": 34,
+        "ElementWeight": 78.96,
+        "Elevtronegativity": 2.4,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Br": {
+        "name": "Bromine",
+        "ElementNumber": 35,
+        "ElementWeight": 79.9,
+        "Elevtronegativity": 2.8,
+        "IsRadioActive": "false",
+        "Phase": "Liquid at 25 °C"
+    },
+    "Kr": {
+        "name": "Krypton",
+        "ElementNumber": 36,
+        "ElementWeight": 83.80,
+        "Elevtronegativity": 3.0,
+        "IsRadioActive": "false",
+        "Phase": "Gas"
+    },
+    "Rb": {
+        "name": "Robidium",
+        "Symbol": "Rb",
+        "ElementNumber": 37,
+        "ElementWeight": 85.46,
+        "Elevtronegativity": 0.8,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Sr": {
+        "name": "Sr",
+        "Symbol": "Stronsium",
+        "ElementNumber": 38,
+        "ElementWeight": 88.9,
+        "Elevtronegativity": 1.0,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Y": {
+        "name": "Yttrium",
+        "Symbol": "Y",
+        "ElementNumber": 39,
+        "ElementWeight": 88.9,
+        "Elevtronegativity": 1.2,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Zr": {
+        "name": "Zirconium",
+        "Symbol": "Zr",
+        "ElementNumber": 40,
+        "ElementWeight": 91.22,
+        "Elevtronegativity": 1.4,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Nb": {
+        "name": "Niobium",
+        "Symbol": "Nb",
+        "ElementNumber": 41,
+        "ElementWeight": 92.90,
+        "Elevtronegativity": 1.6,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Mo": {
+        "name": "Molybdenum",
+        "Symbol": "Mo",
+        "ElementNumber": 42,
+        "ElementWeight": 95.94,
+        "Elevtronegativity": 1.8,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Tc": {
+        "name": "Tachnetium (Radio Active)",
+        "Symbol": "Tc",
+        "ElementNumber": 43,
+        "ElementWeight": 97.90,
+        "Elevtronegativity": 1.9,
+        "IsRadioActive": "ture",
+        "Phase": "Null"
+    },
+    "Ru": {
+        "name": "Ruthenium",
+        "Symbol": "Ru",
+        "ElementNumber": 44,
+        "ElementWeight": 101.07,
+        "Elevtronegativity": 2.2,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Rh": {
+        "name": "Rhodium",
+        "Symbol": "Rh",
+        "ElementNumber": 45,
+        "ElementWeight": 102.9,
+        "Elevtronegativity": 2.2,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Pd": {
+        "name": "Paladium",
+        "Symbol": "Pd",
+        "ElementNumber": 46,
+        "ElementWeight": 106.42,
+        "Elevtronegativity": 2.2,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Ag": {
+        "name": "Silver (Argentum)",
+        "Symbol": "Ag",
+        "ElementNumber": 47,
+        "ElementWeight": 107.86,
+        "Elevtronegativity": 1.9,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Cd": {
+        "name": "Cadmium",
+        "Symbol": "Cd",
+        "ElementNumber": 48,
+        "ElementWeight": 112.41,
+        "Elevtronegativity": 1.7,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "In": {
+        "name": "Indium",
+        "Symbol": "In",
+        "ElementNumber": 49,
+        "ElementWeight": 114.81,
+        "Elevtronegativity": 1.7,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Sn": {
+        "name": "Tin (Stannum)",
+        "Symbol": "Sn",
+        "ElementNumber": 50,
+        "ElementWeight": 118.71,
+        "Elevtronegativity": 1.8,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Sb": {
+        "name": "Antimony",
+        "Symbol": "Sb",
+        "ElementNumber": 51,
+        "ElementWeight": 121.75,
+        "Elevtronegativity": 1.9,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Te": {
+        "name": "Tellurium",
+        "Symbol": "Te",
+        "ElementNumber": 52,
+        "ElementWeight": 127.60,
+        "Elevtronegativity": 2.1,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "I": {
+        "name": "Iodine",
+        "Symbol": "I",
+        "ElementNumber": 53,
+        "ElementWeight": 126.90,
+        "Elevtronegativity": 2.5,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Xe": {
+        "name": "Xenon",
+        "Symbol": "Xe",
+        "ElementNumber": 54,
+        "ElementWeight": 131.29,
+        "Elevtronegativity": 2.6,
+        "IsRadioActive": "false",
+        "Phase": "Gas"
+    },
+    "Cs": {
+        "name": "Caesium",
+        "Symbol": "Cs",
+        "ElementNumber": 55,
+        "ElementWeight": 132.90,
+        "Elevtronegativity": 0.7,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Ba": {
+        "name": "Barium",
+        "Symbol": "Ba",
+        "ElementNumber": 56,
+        "ElementWeight": 137.32,
+        "Elevtronegativity": 0.9,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "La": {
+        "name": "Lanthanum",
+        "Symbol": "La",
+        "ElementNumber": 57,
+        "ElementWeight": 138.90,
+        "Elevtronegativity": 1.1,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Ce": {
+        "name": "Cerium",
+        "Symbol": "Ce",
+        "ElementNumber": 58,
+        "ElementWeight": 140.11,
+        "Elevtronegativity": 1.1,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Pr": {
+        "name": "Praseodymium",
+        "Symbol": "Pr",
+        "ElementNumber": 59,
+        "ElementWeight": 140.90,
+        "Elevtronegativity": 1.1,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Nd": {
+        "name": "Neodymium",
+        "Symbol": "Nd",
+        "ElementNumber": 60,
+        "ElementWeight": 144.24,
+        "Elevtronegativity": 1.1,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Pm": {
+        "name": "Prometium (Radio Active) ",
+        "Symbol": "Pm",
+        "ElementNumber": 61,
+        "ElementWeight": 145,
+        "Elevtronegativity": 1.1,
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Sm": {
+        "name": "Samarium",
+        "Symbol": "Sm",
+        "ElementNumber": 62,
+        "ElementWeight": 150.36,
+        "Elevtronegativity": 1.2,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Eu": {
+        "name": "Europium",
+        "Symbol": "Eu",
+        "ElementNumber": 63,
+        "ElementWeight": 151.96,
+        "Elevtronegativity": 1.1,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Gd": {
+        "name": "Gadolinium",
+        "Symbol": "Gd",
+        "ElementNumber": 64,
+        "ElementWeight": 157.25,
+        "Elevtronegativity": 1.2,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Tb": {
+        "name": "Terbium",
+        "Symbol": "Tb",
+        "ElementNumber": 65,
+        "ElementWeight": 158.92,
+        "Elevtronegativity": 1.1,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Dy": {
+        "name": "Dysprosium",
+        "Symbol": "Dy",
+        "ElementNumber": 66,
+        "ElementWeight": 162.50,
+        "Elevtronegativity": 1.2,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Ho": {
+        "name": "Europium",
+        "Symbol": "Eu",
+        "ElementNumber": 67,
+        "ElementWeight": 151.96,
+        "Elevtronegativity": 1.1,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Er": {
+        "name": "Europium",
+        "Symbol": "Eu",
+        "ElementNumber": 68,
+        "ElementWeight": 151.96,
+        "Elevtronegativity": 1.1,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Tm": {
+        "name": "Thulium",
+        "Symbol": "Tm",
+        "ElementNumber": 69,
+        "ElementWeight": 168.93,
+        "Elevtronegativity": 1.3,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Yb": {
+        "name": "Ytterbium",
+        "Symbol": "Yb",
+        "ElementNumber": 70,
+        "ElementWeight": 173.014,
+        "IsRadioActive": "false",
+        "Elevtronegativity": 1.1,
+        "Phase": "Null"
+    },
+    "Lu": {
+        "name": "Lutetium",
+        "Symbol": "Lu",
+        "ElementNumber": 71,
+        "ElementWeight": 175,
+        "Elevtronegativity": 1.1,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Hf": {
+        "name": "Hfnium",
+        "Symbol": "Hf",
+        "ElementNumber": 72,
+        "ElementWeight": 178.49,
+        "Elevtronegativity": 1.3,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Ta": {
+        "name": "Tantalum",
+        "Symbol": "Ta",
+        "ElementNumber": 73,
+        "ElementWeight": 180.94,
+        "Elevtronegativity": 1.5,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "W": {
+        "name": "Tangesteb (Wolfram)",
+        "Symbol": "W",
+        "ElementNumber": 74,
+        "ElementWeight": 183.84,
+        "Elevtronegativity": 1.7,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Re": {
+        "name": "Renium",
+        "Symbol": "Re",
+        "ElementNumber": 75,
+        "ElementWeight": 186.20,
+        "Elevtronegativity": 1.9,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Os": {
+        "name": "Osmium",
+        "Symbol": "Os",
+        "ElementNumber": 76,
+        "ElementWeight": 190.23,
+        "Elevtronegativity": 2.2,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Ir": {
+        "name": "Irdium",
+        "Symbol": "Ir",
+        "ElementNumber": 77,
+        "ElementWeight": 192.22,
+        "Elevtronegativity": 0,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Pt": {
+        "name": "Platinum",
+        "Symbol": "Pt",
+        "ElementNumber": 78,
+        "ElementWeight": 195.08,
+        "Elevtronegativity": 0,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Au": {
+        "name": "Gold (Arum)",
+        "Symbol": "Au",
+        "ElementNumber": 79,
+        "ElementWeight": 196.96,
+        "Elevtronegativity": 2.4,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Hg": {
+        "name": "Mercury (Hydrogyrum)",
+        "Symbol": "Hg",
+        "ElementNumber": 80,
+        "ElementWeight": 200.59,
+        "Elevtronegativity": 1.9,
+        "IsRadioActive": "false",
+        "Phase": "Liquid (at 25 °C)"
+    },
+    "Tl": {
+        "name": "Thalium",
+        "Symbol": "Tl",
+        "ElementNumber": 81,
+        "ElementWeight": 204.38,
+        "Elevtronegativity": 1.8,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Pb": {
+        "name": "Lead (Plumbum)",
+        "Symbol": "Pb",
+        "ElementNumber": 82,
+        "ElementWeight": 207.02,
+        "Elevtronegativity": 1.9,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Bi": {
+        "name": "Bismuth",
+        "Symbol": "Bi",
+        "ElementNumber": 83,
+        "ElementWeight": 208.98,
+        "Elevtronegativity": 1.9,
+        "IsRadioActive": "false",
+        "Phase": "Solid"
+    },
+    "Po": {
+        "name": "Polonium",
+        "Symbol": "Po",
+        "ElementNumber": 84,
+        "ElementWeight": 209,
+        "Elevtronegativity": 2.0,
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "At": {
+        "name": "Astatine",
+        "Symbol": "At",
+        "ElementNumber": 85,
+        "ElementWeight": 210,
+        "Elevtronegativity": 2.1,
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Rn": {
+        "name": "Radon",
+        "Symbol": "Rn",
+        "ElementNumber": 86,
+        "ElementWeight": 222,
+        "Elevtronegativity": 2.4,
+        "IsRadioActive": "true",
+        "Phase": "Gas"
+    },
+    "Fr": {
+        "name": "Francium",
+        "Symbol": "Fr",
+        "ElementNumber": 87,
+        "ElementWeight": 223,
+        "Elevtronegativity": 0.7,
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Ra": {
+        "name": "Radium",
+        "Symbol": "Ra",
+        "ElementNumber": 88,
+        "ElementWeight": 226,
+        "Elevtronegativity": 0.9,
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Ac": {
+        "name": "Actnium",
+        "Symbol": "Ac",
+        "ElementNumber": 89,
+        "ElementWeight": 227,
+        "Elevtronegativity": 1.1,
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Th": {
+        "name": "Thorium",
+        "Symbol": "Th",
+        "ElementNumber": 90,
+        "ElementWeight": 2320.3,
+        "Elevtronegativity": 1.3,
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Pa": {
+        "name": "Protactium",
+        "Symbol": "Pa",
+        "ElementNumber": 91,
+        "ElementWeight": 231.03,
+        "Elevtronegativity": 1.5,
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "U": {
+        "name": "Uranium",
+        "Symbol": "U",
+        "ElementNumber": 92,
+        "ElementWeight": 238.02,
+        "Elevtronegativity": 1.4,
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Np": {
+        "name": "Neptonium",
+        "Symbol": "Np",
+        "ElementNumber": 93,
+        "ElementWeight": 237,
+        "Elevtronegativity": 1.4,
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Pu": {
+        "name": "Plutonium",
+        "Symbol": "Pu",
+        "ElementNumber": 94,
+        "ElementWeight": 224,
+        "Elevtronegativity": 1.3,
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Am": {
+        "name": "Americium",
+        "Symbol": "Am",
+        "ElementNumber": 95,
+        "ElementWeight": 243,
+        "Elevtronegativity": 1.3,
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Cm": {
+        "name": "Curium",
+        "Symbol": "Cm",
+        "ElementNumber": 96,
+        "ElementWeight": 247,
+        "Elevtronegativity": 1.3,
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Bk": {
+        "name": "Breklium",
+        "Symbol": "Bk",
+        "ElementNumber": 97,
+        "ElementWeight": 247,
+        "Elevtronegativity": 1.3,
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Cf": {
+        "name": "Californium",
+        "Symbol": "Cf",
+        "ElementNumber": 98,
+        "ElementWeight": 251,
+        "Elevtronegativity": 1.3,
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Es": {
+        "name": "Ensteinium",
+        "Symbol": "Es",
+        "ElementNumber": 99,
+        "ElementWeight": 252,
+        "Elevtronegativity": 1.3,
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Fm": {
+        "name": "Formium",
+        "Symbol": "Fm",
+        "ElementNumber": 100,
+        "ElementWeight": 257,
+        "Elevtronegativity": 1.3,
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Md": {
+        "name": "Mendelevium",
+        "Symbol": "Md",
+        "ElementNumber": 101,
+        "ElementWeight": 258,
+        "Elevtronegativity": 1.3,
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "No": {
+        "name": "Nobelium",
+        "Symbol": "No",
+        "ElementNumber": 102,
+        "ElementWeight": 259,
+        "Elevtronegativity": 1.3,
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Lr": {
+        "name": "Larencium",
+        "Symbol": "Lr",
+        "ElementNumber": 103,
+        "ElementWeight": 266,
+        "Elevtronegativity": "Null",
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Rf": {
+        "name": "Raderfordium",
+        "Symbol": "Rf",
+        "ElementNumber": 104,
+        "ElementWeight": 267,
+        "Elevtronegativity": "Null",
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Db": {
+        "name": "Dabnium",
+        "Symbol": "Db",
+        "ElementNumber": 105,
+        "ElementWeight": 268,
+        "Elevtronegativity": "Null",
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Sg": {
+        "name": "Siborgium",
+        "Symbol": "Sg",
+        "ElementNumber": 106,
+        "ElementWeight": 269,
+        "Elevtronegativity": "Null",
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Bh": {
+        "name": "bohrium",
+        "Symbol": "Bh",
+        "ElementNumber": 107,
+        "ElementWeight": 270,
+        "Elevtronegativity": "Null",
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Hs": {
+        "name": "Hasium",
+        "Symbol": "Hs",
+        "ElementNumber": 108,
+        "ElementWeight": 288,
+        "Elevtronegativity": "Null",
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Mt": {
+        "name": "Meitnerium",
+        "Symbol": "Mt",
+        "ElementNumber": 109,
+        "ElementWeight": 278,
+        "Elevtronegativity": "Null",
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Ds": {
+        "name": "Darmstadtium",
+        "Symbol": "Ds",
+        "ElementNumber": 110,
+        "ElementWeight": 281,
+        "Elevtronegativity": "Null",
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Rg": {
+        "name": "Rontegnium",
+        "Symbol": "Rg",
+        "ElementNumber": 111,
+        "ElementWeight": 282,
+        "Elevtronegativity": "Null",
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Cn": {
+        "name": "Copernicium",
+        "Symbol": "Cn",
+        "ElementNumber": 112,
+        "ElementWeight": 285,
+        "Elevtronegativity": "Null",
+        "IsRadioActive": "true",
+        "Phase": "Solid"
+    },
+    "Nh": {
+        "name": "Nihonium ",
+        "Symbol": "Nh",
+        "ElementNumber": 113,
+        "ElementWeight": 286,
+        "Elevtronegativity": "Null",
+        "IsRadioActive": "true",
+        "Phase": "Null"
+    },
+    "Fl": {
+        "name": "Flerovium",
+        "Symbol": "Fl",
+        "ElementNumber": 114,
+        "ElementWeight": 289,
+        "Elevtronegativity": "Null",
+        "IsRadioActive": "true",
+        "Phase": "Null"
+    },
+    "Mc": {
+        "name": "Moscovium",
+        "Symbol": "Mc",
+        "ElementNumber": 115,
+        "ElementWeight": 289,
+        "Elevtronegativity": "Null",
+        "IsRadioActive": "true",
+        "Phase": "Null"
+    },
+    "Lv": {
+        "name": "Livermorium",
+        "Symbol": "Lv",
+        "ElementNumber": 116,
+        "ElementWeight": 293,
+        "Elevtronegativity": "Null",
+        "IsRadioActive": "true",
+        "Phase": "Null"
+    },
+    "Ts": {
+        "name": "Tennessine ",
+        "Symbol": "Ts",
+        "ElementNumber": 117,
+        "ElementWeight": 294,
+        "Elevtronegativity": 0,
+        "IsRadioActive": "true",
+        "Phase": "Null"
+    },
+    "Og":{
+        "name": "Oganesson ",
+        "Symbol": "Og",
+        "ElementNumber": 118,
+        "ElementWeight": 294,
+        "Elevtronegativity": "null",
+        "IsRadioActive": "true",
+        "Phase": "Null"
+    },
+    "Element": {
+        "name": "",
+        "Symbol": "",
+        "ElementNumber": 0,
+        "ElementWeight": 0,
+        "Elevtronegativity": 0,
+        "IsRadioActive": "",
+        "Phase": "Null"
+    }
+}
